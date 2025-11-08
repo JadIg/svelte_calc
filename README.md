@@ -1,3 +1,7 @@
+# N.B. 
+
+README file is intentionally written by AI *sorry too lazy* 
+
 # Svelte Calculator
 
 A calculator application built with Svelte.
